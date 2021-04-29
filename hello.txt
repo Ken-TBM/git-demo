@@ -6,3 +6,4 @@ hello ken~ hello git!
 hello ken~ hello git!
 hello ken~ hello git!
 hello ken~ hello git!
+hot-fix test
